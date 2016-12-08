@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		746C38EF1DF85A6500AEA0B4 /* wkwModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746C38EE1DF85A6500AEA0B4 /* wkwModel.swift */; };
+		746C38F41DF8F72500AEA0B4 /* netModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746C38F31DF8F72500AEA0B4 /* netModel.swift */; };
 		749253631DF7F981008AF412 /* FLNetManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 749253621DF7F981008AF412 /* FLNetManager.swift */; };
 		74C664B61DF1708000646C98 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C664B51DF1708000646C98 /* AppDelegate.swift */; };
 		74C664B81DF1708000646C98 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C664B71DF1708000646C98 /* ViewController.swift */; };
@@ -21,6 +22,7 @@
 		2CDFA3060227C655DDADB6CA /* Pods-myswift.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-myswift.debug.xcconfig"; path = "Pods/Target Support Files/Pods-myswift/Pods-myswift.debug.xcconfig"; sourceTree = "<group>"; };
 		5EDD916CEA9C13DD3A6B1560 /* Pods_myswift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_myswift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		746C38EE1DF85A6500AEA0B4 /* wkwModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = wkwModel.swift; sourceTree = "<group>"; };
+		746C38F31DF8F72500AEA0B4 /* netModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = netModel.swift; sourceTree = "<group>"; };
 		7492535E1DF7E68B008AF412 /* bridge.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = bridge.h; sourceTree = "<group>"; };
 		749253621DF7F981008AF412 /* FLNetManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FLNetManager.swift; sourceTree = "<group>"; };
 		74C664B21DF1708000646C98 /* myswift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myswift.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -100,6 +102,7 @@
 				74C664C11DF1708100646C98 /* Info.plist */,
 				7492535E1DF7E68B008AF412 /* bridge.h */,
 				746C38EE1DF85A6500AEA0B4 /* wkwModel.swift */,
+				746C38F31DF8F72500AEA0B4 /* netModel.swift */,
 			);
 			path = myswift;
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 				749253631DF7F981008AF412 /* FLNetManager.swift in Sources */,
 				74C664B81DF1708000646C98 /* ViewController.swift in Sources */,
 				74C664B61DF1708000646C98 /* AppDelegate.swift in Sources */,
+				746C38F41DF8F72500AEA0B4 /* netModel.swift in Sources */,
 				746C38EF1DF85A6500AEA0B4 /* wkwModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
