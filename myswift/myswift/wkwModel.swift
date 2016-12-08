@@ -11,6 +11,7 @@ import YYModel
 class wkwModel: NSObject {
     
     var name :String?
+    var xuehao :String?
     
     
 
