@@ -13,6 +13,7 @@ class wkwModel: NSObject {
     var name :String?
     var xuehao :String?
     
+    var uuuuuuuuuu = "dfbsfk"
     
 
 }
